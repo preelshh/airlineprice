@@ -3,7 +3,6 @@
 This project utilizes Indian airline price data to predict fares using a Random Forest Tree classifier. Data was preprocessed for readability and dimensionality reduction. Feature encoding and outlier handling were performed. Model optimization was achieved via hyperparameter tuning for enhanced accuracy.
 
 
-
 **Process**
 
 The data science project commenced by importing essential libraries such as Pandas, Seaborn, and Matplotlib. The first step involved identifying the business problem, which aimed to predict airline fare prices based on various independent factors including destination, source, date of journey, time of journey, arrival time, number of stops, trip length, and airline carrier.
